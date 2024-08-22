@@ -75,4 +75,4 @@
 
 ## 🌐 Connect with me:
 <a href="mailto:ahirviral01@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-<a href="[https://linkedin.com/in/nayyyhaa](https://www.linkedin.com/in/viral-ahir/)"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
+<a href="https://www.linkedin.com/in/viral-ahir/"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
