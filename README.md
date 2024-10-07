@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi there 👋🏻, I'm Viral💫</h1>
+  <h1 align="center">Hi there 👋🏻, I'm Viral Ahir</h1>
   <p align="center"><strong>I'm a Computer Science Graduate Student at Northeastern University</strong></p>
 </p>
 
