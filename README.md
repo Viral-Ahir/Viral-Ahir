@@ -4,6 +4,8 @@
 
 Stack Underflow -  [https://github.com/Viral-Ahir/StackUnderflow](https://github.com/Viral-Ahir/StackUnderflow)
 
+Pulse AI - [https://github.com/Viral-Ahir/pulse-ai](https://github.com/Viral-Ahir/pulse-ai)
+
 Pixelate -  [https://github.com/Viral-Ahir/Pixelate](https://github.com/Viral-Ahir/Pixelate)
 
 Eduverse -  [https://github.com/Viral-Ahir/Eduverse](https://github.com/Viral-Ahir/Eduverse)
